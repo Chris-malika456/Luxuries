@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Canada",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
